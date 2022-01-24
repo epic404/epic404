@@ -1,1 +1,2 @@
-![superstitions](superstitions.jpeg)
+![stars](stars.gif)
+Hello! My name is Brandon.

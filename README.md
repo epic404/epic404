@@ -2,4 +2,7 @@
 
 ### Hi I'm Brandon.
 
-I am a software engineer and product developer based out of the Phoenix, Arizona area. I specialize in developing software projects built on technologies like Javascript, TypeScript, Node.js, React.js, & React Native.
+I am a full-stack software engineer based out of the Phoenix, Arizona area. I specialize in developing software projects for web, mobile, and IoT.
+
+## My Stack
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge

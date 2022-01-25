@@ -5,4 +5,4 @@
 I am a full-stack software engineer based out of the Phoenix, Arizona area. I specialize in developing software projects for web, mobile, and IoT.
 
 ## My Stack
-![react](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![react](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)

@@ -7,17 +7,19 @@ I am a full-stack software engineer based out of the Phoenix, Arizona area. I sp
 </br>
 
 ### Tech Stack
-- **Programming Language:** Javascript / TypeScript
-- **UI:** React.js + Next.js or Stencil.js
-- **Mobile:** React Native + Expo
-- **API:** Node.js + Express.js
+- **Programming Language:** _Javascript / TypeScript_
+- **UI:** _React.js + Next.js OR Stencil.js_
+- **Mobile:** _React Native + Expo_
+- **API:** _Node.js + Express.js_
 
 ### Currently Working On
 - [Cashlens](https://cashlens.app)
 - **Continued Learning:**
-  - Golang
-  - Python
-  - C++
+  - _Golang_
+  - _Python_
+  - _C++_
+  - _Rust_
+  - _WebAssembly_
 
 </br>
 </br>

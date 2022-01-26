@@ -4,15 +4,9 @@
 
 I am a full-stack software engineer based out of the Phoenix, Arizona area. I specialize in developing software projects for web, mobile, and IoT.
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepintime&count_private=true&show_icons=true&include_all_commits=true&theme=calm)
-
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepintime&count_private=true&show_icons=true&include_all_commits=true&theme=slateorange)
-
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepintime&count_private=true&show_icons=true&include_all_commits=true&theme=react)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepintime&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepintime&theme=react&compact=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/brandon-kent)
 

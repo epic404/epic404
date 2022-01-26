@@ -4,6 +4,8 @@
 
 I am a full-stack software engineer based out of the Phoenix, Arizona area. I specialize in developing software projects for web, mobile, and IoT.
 
+</br>
+
 ### Tech Stack
 - Programming Language: Javascript / TypeScript
 - UI Framework: React.js + Next.js
@@ -14,8 +16,6 @@ I am a full-stack software engineer based out of the Phoenix, Arizona area. I sp
 - [Cashlens](https://cashlens.app)
 - Continued Learning: Golang, Python, & C++
 
-</br>
-</br>
 </br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/brandon-kent)

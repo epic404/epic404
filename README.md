@@ -6,7 +6,7 @@ I am a full-stack software engineer based out of the Phoenix, Arizona area. I sp
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepintime&count_private=true&show_icons=true&include_all_commits=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepintime&theme=react&compact=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepintime&theme=react&layout=compact)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/brandon-kent)
 

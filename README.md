@@ -8,7 +8,7 @@ I am a full-stack software engineer based out of the Phoenix, Arizona area. I sp
 
 ### Tech Stack
 - Programming Language: Javascript / TypeScript
-- UI Framework: React.js + Next.js
+- UI Framework: React.js + Next.js or Stencil.js
 - Mobile Framework: React Native + Expo
 - API Runtime/Framework: Node.js + Express.js
 

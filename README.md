@@ -6,7 +6,7 @@ I am a full-stack software engineer based out of the Phoenix, Arizona area. I sp
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepintime&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepintime&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepintime&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepintime&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
 

@@ -17,6 +17,7 @@ I am a full-stack software engineer based out of the Phoenix, Arizona area. I sp
 - Continued Learning: Golang, Python, & C++
 
 </br>
+</br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/brandon-kent)
 

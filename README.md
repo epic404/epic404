@@ -5,16 +5,14 @@
 I am a full-stack software engineer based out of the Phoenix, Arizona area. I specialize in developing software projects for web, mobile, and IoT.
 
 ### Tech Stack
-- Javascript / TypeScript
-- React.js + Next.js
-- React Native + Expo
-- Node.js + Express.js
+- Programming Language: Javascript / TypeScript
+- UI Framework: React.js + Next.js
+- Mobile Framework: React Native + Expo
+- API Runtime/Framework: Node.js + Express.js
 
 ### Currently Working On
 - [Cashlens](https://cashlens.app)
-- Learning Go
-- Learning Python
-- Learning C++
+- Continued Learning: Golang, Python, & C++
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/brandon-kent)
 

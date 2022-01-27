@@ -19,7 +19,6 @@ I am a full-stack software engineer based out of the Phoenix, Arizona area. I sp
   - Authentication/Identity
   - Continued Learning: Golang, C++, Rust, WebAssembly
 
-
 </br>
 
 > ***"If there's one attribute that everyone could adopt from the skateboarding community, it would be to have a desire to learn something new- to try, and fall, and pick yourself up again- and repeat that process as many times as it takes to land the trick."***

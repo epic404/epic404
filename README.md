@@ -5,19 +5,20 @@
 I am a full-stack software engineer based out of the Phoenix, Arizona area. I specialize in developing software projects for web, mobile, and IoT.
 
 ## Tech Stack
-- **Programming Language:** _Javascript / TypeScript_
-- **UI:** _React.js + Next.js OR Stencil.js_
-- **Mobile:** _React Native + Expo_
-- **API:** _Node.js + Express.js_
+- **Programming Languages:** _Javascript, TypeScript_
+- **UI:** _React.js, Next.js, Stencil.js_
+- **Mobile:** _React Native, Expo_
+- **API:** _Node.js, Express.js, MongoDB, PostgreSQL_
 
 ## Currently Working On
 - [Cashlens](https://cashlens.app)
-- **Continued Learning:**
-  - _Golang_
-  - _Python_
-  - _C++_
-  - _Rust_
-  - _WebAssembly_
+- [form-buster](https://github.com/brandalorian/form-buster)
+
+## Programming Interests
+  - Open Source
+  - Authentication/Identity
+  - Continued Learning: Golang, C++, Rust, WebAssembly
+
 
 </br>
 

@@ -1,4 +1,4 @@
-![stars](stars.gif)
+![mando](mando.jpeg)
 
 # Hi I'm Brandon.
 

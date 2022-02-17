@@ -1,12 +1,6 @@
-<br/>
-<br/>
-<br/>
+👋 Hi, I’m @brandalorian
 
-> ***"Persistance without insight will lead to the same outcome."***
-<br/>
-~ The Armorer
-
-<br/>
-<br/>
-<br/>
-<br/>
+I am working on my own projects.
+I am currently learning how to build good software.
+I am looking to collaborate on most things that pay well.
+I can be contacted on LinkedIn if you can find me.

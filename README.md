@@ -1,4 +1,12 @@
 👋 Hi, I’m @brandalorian
 
-- I am currently working on my budgeting platform Cashlens, as well as an open source project called form-buster.
-- I am currently learning microservice architecture with Node.js, as well as new ways to bundle frontend UI code.
+- I am currently working on:
+  - My budgeting platform Cashlens
+  - My open source Web Component form-buster
+<!--- 
+  - My guitar platform Riffster
+  - My UI/UX platform UXforge
+  --->
+- I am currently learning:
+  - Microservice architecture with Node.js
+  - New ways to bundle frontend UI code with Vite.

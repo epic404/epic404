@@ -1,6 +1,4 @@
 👋 Hi, I’m @brandalorian
 
-- I am working on my own projects.
-- I am currently learning how to build good software.
-- I am looking to collaborate on most things that pay well.
-- I can be contacted on LinkedIn if you can find me.
+- I am currently working on my budgeting platform Cashlens, as well as an open source project called form-buster.
+- I am currently learning microservice architecture with Node.js, as well as new ways to bundle frontend UI code.

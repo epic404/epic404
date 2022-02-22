@@ -10,3 +10,4 @@
 ### 🌱 I am currently learning:
 - Microservice architecture with Node.js
 - New ways to bundle frontend UI code with Vite.
+- Golang programming language.

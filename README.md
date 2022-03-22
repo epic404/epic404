@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @brandalorian
+# ✌️ Hi, I’m @brandalorian
 
 ### 🛠️ I am currently working on:
 - [Cashlens](https://www.cashlens.app/)

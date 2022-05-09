@@ -1,3 +1,3 @@
 # ✌️ hi, I’m @brandalorian
 
-!(mando)[https://github.com/brandalorian/brandalorian/blob/main/mando.jpeg]
+![mando](https://github.com/brandalorian/brandalorian/blob/main/mando.jpeg)
